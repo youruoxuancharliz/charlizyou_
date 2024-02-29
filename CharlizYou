@@ -1,0 +1,33 @@
+<html>
+<head> 
+  <title> You Ruo Xuan Charliz </title> 
+</head>
+
+<style> 
+body { background-color:#AEC6CF;}
+h1 { text-align:center; }
+h1 { font-size:60px;}
+h2 { font-size:30px; }
+#smalltitle { font-size:20px; }
+  </style>
+
+        <body>
+  <h1> SUMMARISED PORTFOLIO </h1> 
+ 
+<h2 style="background-colour:#8a85bc;">My 6 months internship in 2024 </h2>
+
+
+     <p id="smalltitle"> IT skills i picked up at a local IT SME <a href="https://www.ann.sg/a2p-sms.html">(Ann Consulting Pte Ltd)</a> </p> 
+     
+<ol> 
+   <li> Established foundation in <b>HTML language<b> via to aid me in building websites, eg this website to summarise my portfolio. </li>
+   <li> Went through a paid Udemy course, learning the basics of Python and earned a <b>certificate<b> </li>
+   <li> 
+</ol>
+     </p>
+       </body>
+       </html>
+
+
+
+    
